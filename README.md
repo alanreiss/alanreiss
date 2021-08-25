@@ -13,10 +13,7 @@
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
-  ##
-  
-- 🔭 Buscando aprender mais sobre Front-End Developer
-- 📚 Estudando HTML, CSS e JavaScript
+
 
   
   
